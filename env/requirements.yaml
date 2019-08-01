@@ -13,6 +13,9 @@ dependencies:
 - name: srikanth-buildpack-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.11
+- name: test-custom-bp-test
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: test-quickstart-custombuild-pack
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
